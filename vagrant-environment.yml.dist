@@ -1,0 +1,14 @@
+port: 80
+
+virtual_machine:
+  host: goodcatgonebad.local
+  host_port: 8080
+  cores_count: 2
+  ram_size: 2048
+
+digital_ocean:
+  host: goodcatgonebad.com
+  image: ubuntu-14-04-x64
+  region: nyc2
+  ram_size: 512mb
+  token: azaza
