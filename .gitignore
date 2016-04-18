@@ -1,0 +1,6 @@
+/src/bower_components
+/GPATH
+/GRTAGS
+/GTAGS
+*.DS_Store
+*.tern-port

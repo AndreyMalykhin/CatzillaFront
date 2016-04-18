@@ -1,0 +1,50 @@
+body {
+    color: #88cc88;
+    background-color: #2d882d;
+}
+
+.header-background,
+.screenshot-link {
+    border: none;
+    /* background-color: #88cc88; */
+    background-color: #004400;
+}
+
+.header {
+    padding-top: 15px;
+    text-align: center;
+}
+
+.header-background {
+    width: 100%;
+    max-width: 1024px;
+}
+
+.download {
+    text-align: center;
+}
+
+.download-img__android {
+    width: 210px;
+}
+
+.screenshots {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.screenshot-link {
+    max-width: 320px;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: default;
+}
+
+.screenshot-img {
+    width: 100%;
+}
+
+.footer {
+    padding-bottom: 15px;
+    text-align: center;
+}
