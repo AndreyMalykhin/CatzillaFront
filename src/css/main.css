@@ -54,6 +54,12 @@ body {
     width: 210px;
 }
 
+.download-available {
+    margin: 20px 0;
+    font-size: 18px;
+    font-weight: bold;
+}
+
 .screenshots {
     margin-top: 10px;
     text-align: center;
