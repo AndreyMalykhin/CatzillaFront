@@ -3,6 +3,12 @@ body {
     background-color: #2d882d;
 }
 
+a,
+a:focus,
+a:hover {
+    color: #ffd1aa;
+}
+
 .header-background,
 .screenshot-link {
     border: none;
@@ -84,6 +90,16 @@ body {
     display: inline-block;
     margin: 0 10px;
     vertical-align: middle;
+}
+
+.press {
+    padding-top: 15px;
+    text-align: center;
+}
+
+.press-btn {
+    font-size: 18px;
+    font-weight: bold;
 }
 
 .footer {
