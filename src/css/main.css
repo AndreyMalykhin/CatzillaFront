@@ -9,6 +9,10 @@ a:hover {
     color: #ffd1aa;
 }
 
+h1 {
+    font-size: 18px;
+}
+
 .header-background,
 .screenshot-link {
     border: none;
